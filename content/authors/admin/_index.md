@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jiaxin Zhang
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,39 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Staff Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins University
-  url: ""
+- name: Oak Ridge National Laboratory
+  url: "https://www.ornl.gov/"
+- name: Computer Science and Mathematics Division
+  url: "https://csmd.ornl.gov/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Robust Machine Learning/AI
+- Uncertainty Quantification
+- Computational Co-Design 
+- Materials informatics
+- Design Optimization
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computational Science and Engineering
+    institution: Johns Hopkins University 
+    year: 2018
+  - course: MSE in Applied Mathematics & Statistics
+    institution: Johns Hopkins University 
+    year: 2018
+  - course: MS in Computational Mechanics
+    institution: Dalian University of Technology (China)
+    year: 2014
+  - course: BSc in Engineering Mechanics
+    institution: Dalian University of Technology (China)
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +52,33 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/jiaxin-zhang-1425289b/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jxzhangjhu
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=LiDm8jEAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Jiaxin_Zhang6
+- icon: orcid
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: mendeley
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: researcherid
+  #icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/jxzhangjhu
+- icon: cv
+  icon_pack: ai
+  link: https://twitter.com/jxzhangjhu
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +95,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jiaxin Zhang is a Staff Scientist in Computer Science and Mathematics Division at Oak Ridge National Laboratory (ORNL), U.S. Department of Energy (DOE). Dr. Zhang is a computational data-driven researcher with a Civil and Mechanical engineering background in uncertainty quantification, machine learning, large-scale data analytics and design optimization.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research strives to fulfill that improvement of analyzing and designing complex, uncertain engineering systems, by developing a computationally efficient and unified design-under-uncertainty framework that can provide useful insight and coverage at an acceptable cost.
