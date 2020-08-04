@@ -7,5 +7,9 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*arXiv preprint arXiv:2002.03001*"
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
 ---
 
