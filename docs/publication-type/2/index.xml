@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Jiaxin Zhang</title>
-    <link>jxzhangjhu.github.io/publication-type/2/</link>
-      <atom:link href="jxzhangjhu.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jxzhangjhu.github.io/publication-type/2/</link>
+      <atom:link href="https://jxzhangjhu.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/jxzhangjhu.github.io/images/icon_hu12b7f021ba468ebff17899dbabb59f49_13134_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jxzhangjhu.github.io/images/icon_hu12b7f021ba468ebff17899dbabb59f49_13134_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>jxzhangjhu.github.io/publication-type/2/</link>
+      <link>https://jxzhangjhu.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>A nonlocal optimization method for computational inverse design in nanophotonics</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2020-nanophotonics/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2020-nanophotonics/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2020-nanophotonics/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2020-nanophotonics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Evolution Strategy with Directional Gaussian Smoothing for Blackbox Optimization</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2020-scalable/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2020-scalable/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2020-scalable/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2020-scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating Reinforcement Learning with a Directional-Gaussian-Smoothing Evolution Strategy</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2020-accelerating/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2020-accelerating/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2020-accelerating/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2020-accelerating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imprecise global sensitivity analysis using bayesian multimodel inference and importance sampling</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2020-imprecise/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2020-imprecise/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2020-imprecise/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2020-imprecise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the quantification and efficient propagation of imprecise probabilities with copula dependence</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2020-quantification/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2020-quantification/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2020-quantification/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2020-quantification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic modeling and prediction of out-of-plane unidirectional composite lamina properties</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2020-probabilistic/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2020-probabilistic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2020-probabilistic/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2020-probabilistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust data-driven approach for predicting the configurational energy of high entropy alloys</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2020-robust/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2020-robust/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2020-robust/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2020-robust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buckling surrogate-based optimization framework for hierarchical stiffened composite shells by enhanced variance reduction method</title>
-      <link>jxzhangjhu.github.io/publication/tian-2019-buckling/</link>
+      <link>https://jxzhangjhu.github.io/publication/tian-2019-buckling/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/tian-2019-buckling/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/tian-2019-buckling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient monte carlo resampling for probability measure changes from bayesian updating</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2019-efficient/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2019-efficient/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2019-efficient/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2019-efficient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toward the robust establishment of variable-fidelity surrogate models for hierarchical stiffened shells by two-step adaptive updating approach</title>
-      <link>jxzhangjhu.github.io/publication/tian-2019-toward/</link>
+      <link>https://jxzhangjhu.github.io/publication/tian-2019-toward/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/tian-2019-toward/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/tian-2019-toward/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the quantification and efficient propagation of imprecise probabilities resulting from small datasets</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2018-quantification/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2018-quantification/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2018-quantification/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2018-quantification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tailoring the optimal load-carrying efficiency of hierarchical stiffened shells by competitive sampling</title>
-      <link>jxzhangjhu.github.io/publication/tian-2018-tailoring/</link>
+      <link>https://jxzhangjhu.github.io/publication/tian-2018-tailoring/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/tian-2018-tailoring/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/tian-2018-tailoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effect of prior probabilities on quantification and propagation of imprecise probabilities resulting from small datasets</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2018-effect/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2018-effect/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2018-effect/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2018-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The generalization of Latin hypercube sampling</title>
-      <link>jxzhangjhu.github.io/publication/shields-2016-generalization/</link>
+      <link>https://jxzhangjhu.github.io/publication/shields-2016-generalization/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/shields-2016-generalization/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/shields-2016-generalization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design optimization of connection section for concentrated force diffusion</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2015-design/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2015-design/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2015-design/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2015-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buckling control and energy absorption of corrugated web beam under axial compression</title>
-      <link>jxzhangjhu.github.io/publication/bi-2014-buckling/</link>
+      <link>https://jxzhangjhu.github.io/publication/bi-2014-buckling/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/bi-2014-buckling/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/bi-2014-buckling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal design of concentrated force diffusion for short shell structure using hierarchical radial ribs</title>
-      <link>jxzhangjhu.github.io/publication/zhang-2014-optimal/</link>
+      <link>https://jxzhangjhu.github.io/publication/zhang-2014-optimal/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/zhang-2014-optimal/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/zhang-2014-optimal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimum design of hierarchical stiffened shells for low imperfection sensitivity</title>
-      <link>jxzhangjhu.github.io/publication/wang-2014-optimum/</link>
+      <link>https://jxzhangjhu.github.io/publication/wang-2014-optimum/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/wang-2014-optimum/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/wang-2014-optimum/</guid>
       <description></description>
     </item>
     

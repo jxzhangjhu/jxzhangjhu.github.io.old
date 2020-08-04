@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yu Sun | Jiaxin Zhang</title>
-    <link>jxzhangjhu.github.io/author/yu-sun/</link>
-      <atom:link href="jxzhangjhu.github.io/author/yu-sun/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jxzhangjhu.github.io/author/yu-sun/</link>
+      <atom:link href="https://jxzhangjhu.github.io/author/yu-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Sun</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/jxzhangjhu.github.io/images/icon_hu12b7f021ba468ebff17899dbabb59f49_13134_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jxzhangjhu.github.io/images/icon_hu12b7f021ba468ebff17899dbabb59f49_13134_512x512_fill_lanczos_center_2.png</url>
       <title>Yu Sun</title>
-      <link>jxzhangjhu.github.io/author/yu-sun/</link>
+      <link>https://jxzhangjhu.github.io/author/yu-sun/</link>
     </image>
     
     <item>
       <title>Buckling surrogate-based optimization framework for hierarchical stiffened composite shells by enhanced variance reduction method</title>
-      <link>jxzhangjhu.github.io/publication/tian-2019-buckling/</link>
+      <link>https://jxzhangjhu.github.io/publication/tian-2019-buckling/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>jxzhangjhu.github.io/publication/tian-2019-buckling/</guid>
+      <guid>https://jxzhangjhu.github.io/publication/tian-2019-buckling/</guid>
       <description></description>
     </item>
     
