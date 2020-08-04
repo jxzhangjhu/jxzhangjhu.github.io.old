@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiangtao Ma | Jiaxin Zhang</title>
+    <link>jxzhangjhu.github.io/author/xiangtao-ma/</link>
+      <atom:link href="jxzhangjhu.github.io/author/xiangtao-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiangtao Ma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/jxzhangjhu.github.io/images/icon_hu12b7f021ba468ebff17899dbabb59f49_13134_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiangtao Ma</title>
+      <link>jxzhangjhu.github.io/author/xiangtao-ma/</link>
+    </image>
+    
+    <item>
+      <title>Buckling surrogate-based optimization framework for hierarchical stiffened composite shells by enhanced variance reduction method</title>
+      <link>jxzhangjhu.github.io/publication/tian-2019-buckling/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>jxzhangjhu.github.io/publication/tian-2019-buckling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward the robust establishment of variable-fidelity surrogate models for hierarchical stiffened shells by two-step adaptive updating approach</title>
+      <link>jxzhangjhu.github.io/publication/tian-2019-toward/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>jxzhangjhu.github.io/publication/tian-2019-toward/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

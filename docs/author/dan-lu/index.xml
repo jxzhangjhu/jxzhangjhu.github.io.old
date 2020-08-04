@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Lu | Jiaxin Zhang</title>
+    <link>jxzhangjhu.github.io/author/dan-lu/</link>
+      <atom:link href="jxzhangjhu.github.io/author/dan-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/jxzhangjhu.github.io/images/icon_hu12b7f021ba468ebff17899dbabb59f49_13134_512x512_fill_lanczos_center_2.png</url>
+      <title>Dan Lu</title>
+      <link>jxzhangjhu.github.io/author/dan-lu/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Evolution Strategy with Directional Gaussian Smoothing for Blackbox Optimization</title>
+      <link>jxzhangjhu.github.io/publication/zhang-2020-scalable/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>jxzhangjhu.github.io/publication/zhang-2020-scalable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

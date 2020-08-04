@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael D Shields | Jiaxin Zhang</title>
+    <link>jxzhangjhu.github.io/author/michael-d-shields/</link>
+      <atom:link href="jxzhangjhu.github.io/author/michael-d-shields/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael D Shields</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/jxzhangjhu.github.io/images/icon_hu12b7f021ba468ebff17899dbabb59f49_13134_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael D Shields</title>
+      <link>jxzhangjhu.github.io/author/michael-d-shields/</link>
+    </image>
+    
+    <item>
+      <title>Efficient monte carlo resampling for probability measure changes from bayesian updating</title>
+      <link>jxzhangjhu.github.io/publication/zhang-2019-efficient/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>jxzhangjhu.github.io/publication/zhang-2019-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the quantification and efficient propagation of imprecise probabilities resulting from small datasets</title>
+      <link>jxzhangjhu.github.io/publication/zhang-2018-quantification/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>jxzhangjhu.github.io/publication/zhang-2018-quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of prior probabilities on quantification and propagation of imprecise probabilities resulting from small datasets</title>
+      <link>jxzhangjhu.github.io/publication/zhang-2018-effect/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>jxzhangjhu.github.io/publication/zhang-2018-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The generalization of Latin hypercube sampling</title>
+      <link>jxzhangjhu.github.io/publication/shields-2016-generalization/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>jxzhangjhu.github.io/publication/shields-2016-generalization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
