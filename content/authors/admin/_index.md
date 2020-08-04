@@ -87,13 +87,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Jiaxin Zhang is a Staff Scientist in Computer Science and Mathematics Division at Oak Ridge National Laboratory (ORNL), U.S. Department of Energy (DOE). Dr. Zhang is a computational data-driven researcher with a Civil and Mechanical engineering background in uncertainty quantification, machine learning, large-scale data analytics and design optimization.
