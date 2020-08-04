@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jxzhangjhu.github.io/talk/example-copy/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxzhangjhu.github.io/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxzhangjhu.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxzhangjhu.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jxzhangjhu.github.io/publication-type/2/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -54,11 +74,6 @@
   
   <url>
     <loc>https://jxzhangjhu.github.io/author/jiaxin-zhang/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jxzhangjhu.github.io/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -134,6 +149,11 @@
   
   <url>
     <loc>https://jxzhangjhu.github.io/post/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxzhangjhu.github.io/post/writing-technical-content-copy/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,6 +263,26 @@
   </url>
   
   <url>
+    <loc>https://jxzhangjhu.github.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxzhangjhu.github.io/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxzhangjhu.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jxzhangjhu.github.io/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jxzhangjhu.github.io/publication/shields-2016-generalization/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -313,14 +353,6 @@
   
   <url>
     <loc>https://jxzhangjhu.github.io/author/jiaxin-zhang/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jxzhangjhu.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jxzhangjhu.github.io/tags/</loc>
   </url>
   
 </urlset>
