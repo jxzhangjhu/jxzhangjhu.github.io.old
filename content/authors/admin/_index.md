@@ -24,10 +24,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Robust Machine Learning/AI
+- Reinforcement Learning
 - Uncertainty Quantification
+- Numerical Optimization
 - Computational Co-Design 
 - Materials informatics
-- Design Optimization
 
 education:
   courses:
