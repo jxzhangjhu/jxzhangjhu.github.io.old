@@ -56,6 +56,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jiaxin-zhang-1425289b/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/jxzhangjhu
 - icon: github
   icon_pack: fab
   link: https://github.com/jxzhangjhu
@@ -67,19 +70,18 @@ social:
   link: https://www.researchgate.net/profile/Jiaxin_Zhang6
 - icon: orcid
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: http://orcid.org/0000-0002-7576-6110
 - icon: mendeley
   icon_pack: ai
+  link: https://www.mendeley.com/profiles/jiaxin-zhang2/
+- icon: publons
+  icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  #- icon: researcherid
-  #icon_pack: ai
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jxzhangjhu
 - icon: cv
   icon_pack: ai
   link: https://twitter.com/jxzhangjhu
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
