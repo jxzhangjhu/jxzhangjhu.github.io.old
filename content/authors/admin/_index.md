@@ -76,7 +76,7 @@ social:
   link: https://www.mendeley.com/profiles/jiaxin-zhang2/
 - icon: publons
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://publons.com/researcher/1436261/jiaxin-zhang/
 - icon: cv
   icon_pack: ai
   link: https://twitter.com/jxzhangjhu
