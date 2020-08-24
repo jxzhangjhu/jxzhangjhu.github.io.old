@@ -26,11 +26,19 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Deep Learning"
+    name = "ML/AI"
     tag = "Deep Learning"
 
   [[content.filter_button]]
-    name = "Other"
+    name = "UQ"
+    tag = "Demo"
+
+  [[content.filter_button]]
+    name = "Optimization"
+    tag = "Demo"
+
+  [[content.filter_button]]
+    name = "Applications"
     tag = "Demo"
 
 [design]

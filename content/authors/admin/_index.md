@@ -10,25 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Staff Scientist
+role: Staff Scientist
 
 # Organizations/Affiliations
 organizations:
 - name: Oak Ridge National Laboratory
   url: "https://www.ornl.gov/"
-- name: Computer Science and Mathematics Division
-  url: "https://csmd.ornl.gov/"
+#- name: Computer Science and Mathematics Division
+#  url: "https://csmd.ornl.gov/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: Staff Scientist at Oak Ridge National Laboratory
 
 interests:
-- Robust Machine Learning/AI
-- Reinforcement Learning
-- Uncertainty Quantification
-- Numerical Optimization
-- Computational Co-Design 
+- Robust and trustworthy AI/ML
+- Physics-informed deep learning 
+- Uncertainty quantification 
+- Computational inverse design 
 - Materials informatics
+- Stochastic optimization and simulation
+- Autonomous robotics with deep RL 
 
 education:
   courses:
@@ -98,10 +99,11 @@ social:
 #- Visitors
 ---
 
-Jiaxin Zhang is a Staff Scientist in Computer Science and Mathematics Division at Oak Ridge National Laboratory (ORNL), U.S. Department of Energy (DOE). Dr. Zhang is a computational data-driven researcher with a Civil and Mechanical engineering background in uncertainty quantification, machine learning, large-scale data analytics and design optimization.
+Jiaxin Zhang is a Staff Scientist in Computer Science and Mathematics Division (CSMD) at Oak Ridge National Laboratory (ORNL). Prior to being a research staff, he was a posdoctroal fellow in the Scientific Computing Group within National Center for Computational Science (NCCS) at ORNL. 
 
-His research strives to fulfill that improvement of analyzing and designing complex, uncertain engineering systems, by developing a computationally efficient and unified design-under-uncertainty framework that can provide useful insight and coverage at an acceptable cost.
+His research broadly revolves around **machine learning**, **uncertainty quantification**, **computational design** and **optimization** for *advanced materials*, *mechanical* and *robotic systems*.  His research strives to fulfill that improvement of analyzing and designing intelligent, autonomous and robust engineering systems, by developing a computationally efficient and unified framework that can offer valuable insight. 
 
-His research strives to fulfill that improvement of analyzing and designing complex, uncertain engineering systems, by developing a computationally efficient and unified design-under-uncertainty framework that can provide useful insight and coverage at an acceptable cost.
 
-His research strives to fulfill that improvement of analyzing and designing complex, uncertain engineering systems, by developing a computationally efficient and unified design-under-uncertainty framework that can provide useful insight and coverage at an acceptable cost.
+
+
+
