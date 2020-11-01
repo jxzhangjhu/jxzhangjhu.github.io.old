@@ -9,3 +9,21 @@ heading_font = "Montserrat"
 body_font = "Roboto"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
+
+# # Optional Google font URL
+# google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
+#
+# # Font families
+# heading_font = "Lato"
+# body_font = "Merriweather"
+# nav_font = "Lato"
+# mono_font = "Roboto Mono"
+
+# # Optional Google font URL
+# google_fonts = "B612+Mono:400,700|Orbitron:400,700"
+#
+# # Font families
+# heading_font = "Orbitron"
+# body_font = "B612 Mono"
+# nav_font = "B612 Mono"
+# mono_font = "B612 Mono"
