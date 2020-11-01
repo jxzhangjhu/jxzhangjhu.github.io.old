@@ -99,7 +99,7 @@ social:
 #- Visitors
 ---
 
-Jiaxin Zhang is a Staff Scientist in Computer Science and Mathematics Division (CSMD) at Oak Ridge National Laboratory (ORNL). Prior to being a research staff, he was a posdoctroal fellow in the Scientific Computing Group within National Center for Computational Science (NCCS) at ORNL. 
+Jiaxin Zhang is a Staff Scientist in Computer Science and Mathematics Division (CSMD) at Oak Ridge National Laboratory (ORNL). Prior to being a research staff, he was a postdoctoral fellow in the Scientific Computing Group within National Center for Computational Science (NCCS) at ORNL. 
 
 His research broadly revolves around **machine learning**, **uncertainty quantification**, **computational design** and **optimization** for *advanced materials*, *mechanical* and *robotic systems*.  His research strives to fulfill that improvement of analyzing and designing intelligent, autonomous and robust engineering systems, by developing a computationally efficient and unified framework that can offer valuable insight. 
 
