@@ -66,6 +66,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LiDm8jEAAAAJ&hl=en
+- icon: arxiv
+  icon_pack: ai
+  link: http://arxiv.org/a/zhang_j_16
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jiaxin_Zhang6
