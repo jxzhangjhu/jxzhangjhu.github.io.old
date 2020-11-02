@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Staff Scientist
+role: Research Staff
 
 # Organizations/Affiliations
 organizations:
