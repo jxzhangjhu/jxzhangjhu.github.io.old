@@ -36,7 +36,7 @@ education:
   - course: PhD in Computational Engineering, Civil Engineering 
     institution: Johns Hopkins University 
     year: 2018
-  - course: MSE in Statistical Learning, Applied Mathematics & Statistics
+  - course: MSE in Statistics and Statistical Learning, Applied Mathematics & Statistics
     institution: Johns Hopkins University 
     year: 2018
   - course: MSE in Computational Mechanics
