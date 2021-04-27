@@ -33,7 +33,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Civil and Systems Engineering 
+  - course: PhD in Computational Science and Engineering, Civil Engineering 
     institution: Johns Hopkins University 
     year: 2018
   - course: MSE in Applied Mathematics & Statistics
