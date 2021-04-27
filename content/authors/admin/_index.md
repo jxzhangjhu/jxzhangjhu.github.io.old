@@ -36,10 +36,10 @@ education:
   - course: PhD in Computational Engineering, Civil Engineering 
     institution: Johns Hopkins University 
     year: 2018
-  - course: MSE in Applied Mathematics & Statistics
+  - course: MSE in Statistical Learning, Applied Mathematics & Statistics
     institution: Johns Hopkins University 
     year: 2018
-  - course: MS in Computational Mechanics
+  - course: MSE in Computational Mechanics
     institution: Dalian University of Technology (China)
     year: 2014
   - course: BSc in Engineering Mechanics
