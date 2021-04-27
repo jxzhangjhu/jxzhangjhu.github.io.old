@@ -33,11 +33,11 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computational Engineering, Civil Engineering 
-    institution: Johns Hopkins University 
+  - course: PhD in Computational Engineering and Science
+    institution: Civil Engineering, Johns Hopkins University 
     year: 2018
-  - course: MSE in Statistics and Statistical Learning, Applied Mathematics & Statistics
-    institution: Johns Hopkins University 
+  - course: MSE in Statistics and Statistical Learning
+    institution: Applied Mathematics & Statistics, Johns Hopkins University 
     year: 2018
   - course: MSE in Computational Mechanics
     institution: Dalian University of Technology (China)
