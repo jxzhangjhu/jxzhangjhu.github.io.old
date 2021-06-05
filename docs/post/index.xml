@@ -5,7 +5,7 @@
     <link>https://jxzhangjhu.github.io/post/</link>
       <atom:link href="https://jxzhangjhu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jxzhangjhu.github.io/images/icon_hu12b7f021ba468ebff17899dbabb59f49_13134_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
@@ -13,40 +13,11 @@
     </image>
     
     <item>
-      <title>Paper on imprecise global sensivitiy analysis published in MSSP</title>
-      <link>https://jxzhangjhu.github.io/post/mssp-paper/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://jxzhangjhu.github.io/post/mssp-paper/</guid>
-      <description>&lt;p&gt;My paper &amp;ldquo;Imprecise global sensitivity analysis using Bayesian multimodel inference and importance sampling&amp;rdquo; has just been published in &lt;em&gt;Mechanical Systems and Signal Processing&lt;/em&gt;. A shared link with 50-days free access is provided:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://t.co/pApb7ASrOq?amp=1&#34;&gt;https://t.co/pApb7ASrOq?amp=1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A few highlights of this work:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;A fully probabilistic multimodel approach for imprecise GSA is proposed.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;This approach employs Bayesian multimodel inference to quantify uncertainties in model inputs.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The multimodel inference is combined with an importance reweighting scheme for estimation of imprecise Sobol indices.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The methodology can be used to assess confidence in computed sensitivity indices and inform testing and data collection efforts.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Paper on imprecise probabilities with copula dependence published in IJAR</title>
-      <link>https://jxzhangjhu.github.io/post/ijar-paper/</link>
+      <title>test</title>
+      <link>https://jxzhangjhu.github.io/post/news1/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jxzhangjhu.github.io/post/ijar-paper/</guid>
-      <description>&lt;p&gt;My paper &amp;ldquo;On the quantification and efficient propagation of imprecise probabilities with copula dependence&amp;rdquo; has just been published in &lt;em&gt;International Journal of Approximate Reasoning&lt;/em&gt;. A shared link with 50-days free access is provided:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://t.co/znyVy6EHxO?amp=1&#34;&gt;https://t.co/znyVy6EHxO?amp=1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The abstract of this work is&lt;/p&gt;
-&lt;p&gt;This paper addresses the problem of quantification and propagation of uncertainties associated with dependence modeling when data for characterizing probability models are limited. Practically, the system inputs are often assumed to be mutually independent or correlated by a multivariate Gaussian distribution. However, this subjective assumption may introduce bias in the response estimate if the real dependence structure deviates from this assumption. In this work, we overcome this limitation by introducing a flexible copula dependence model to capture complex dependencies. A hierarchical Bayesian multimodel approach is proposed to quantify uncertainty in dependence model-form and model parameters that result from small data sets. This approach begins by identifying, through Bayesian multimodel inference, a set of candidate marginal models and their corresponding model probabilities, and then estimating the uncertainty in the copula-based dependence structure, which is conditional on the marginals and their parameters. The overall uncertainties integrating marginals and copulas are probabilistically represented by an ensemble of multivariate candidate densities. A novel importance sampling reweighting approach is proposed to efficiently propagate the overall uncertainties through a computational model. Through an example studying the influence of constituent properties on the out-of-plane properties of transversely isotropic E-glass fiber composites, we show that the composite property with copula-based dependence model converges to the true estimate as data set size increases, while an independence or arbitrary Gaussian correlation assumption leads to a biased estimate.&lt;/p&gt;
-</description>
+      <guid>https://jxzhangjhu.github.io/post/news1/</guid>
+      <description></description>
     </item>
     
   </channel>

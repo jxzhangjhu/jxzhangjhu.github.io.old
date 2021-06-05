@@ -1,18 +1,18 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# A Recent Blog Posts section created with the Pages widget.
+# This section displays recent blog posts from `content/post/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
+title = "Services"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  page_type = "post"
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -30,8 +30,6 @@ subtitle = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-    exclude_past = false
-    exclude_future = false
 
 [design]
   # Toggle between the various page layout types.
@@ -39,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -56,13 +54,13 @@ subtitle = ""
 
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
 
 [advanced]
- # Custom CSS.
+ # Custom CSS. 
  css_style = ""
 
  # CSS class.
@@ -70,4 +68,3 @@ subtitle = ""
 
 +++
 
-#dadasdaa

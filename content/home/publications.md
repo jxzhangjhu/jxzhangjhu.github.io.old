@@ -5,65 +5,33 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "ddsada"
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 10
-
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 4
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-
-[advanced]
- # Custom CSS. 
- css_style = ""
-
- # CSS class.
- css_class = ""
 +++
 
+## 📝 Publications
+
+1. ICLR 2021 - [Generalized Energy Based Models](https://arxiv.org/abs/2003.05033) by Michael Arbel et. al.
+
+   <img src="image1.jpg" width = "500" height = "300" alt="图片无法加载时显示的文字" align=center />
+
+   <!-- ### <img src="image/image1.jpg" alt="JAX" height="15px"> &nbsp;JAX Packages -->
+
+   <!-- <img src="assets/normalizing-flow.svg" alt="Normalizing Flow" width="1000"> -->
+
+   >[Github Code](https://github.com/MichaelArbel/GeneralizedEBM)
+
+   <!-- > We introduce the Generalized Energy Based Model (GEBM) for generative modelling. These models combine two trained components: a base distribution (generally an implicit model), which can learn the support of data with low intrinsic dimension in a high dimensional space; and an energy function, to refine the probability mass on the learned support. Both the energy function and base jointly constitute the final model, unlike GANs, which retain only the base distribution (the "generator"). GEBMs are trained by alternating between learning the energy and the base. We show that both training stages are well-defined: the energy is learned by maximising a generalized likelihood, and the resulting energy-based loss provides informative gradients for learning the base. Samples from the posterior on the latent space of the trained model can be obtained via MCMC, thus finding regions in this space that produce better quality samples. Empirically, the GEBM samples on image-generation tasks are of much better quality than those from the learned generator alone, indicating that all else being equal, the GEBM will outperform a GAN of the same complexity. When using normalizing flows as base measures, GEBMs succeed on density modelling tasks, returning comparable performance to direct maximum likelihood of the same networks. -->
+
+2. ICLR 2021 - [No MCMC for me: Amortized sampling for fast and stable training of energy-based models](https://arxiv.org/abs/2010.04230) by Will Grathwohl et al.
+
+   >[Github Code](https://github.com/wgrathwohl/VERA)
+
+3. NeurIPS 2019 - [Implicit Generation and Modeling with Energy-Based Models](https://arxiv.org/abs/1903.08689) by YiLun Du and Igor Mordatch
+
+   >[Github Code](https://github.com/openai/ebm_code_release)
+
+4. ICLR 2020 - [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) by Will Grathwohl et al.
