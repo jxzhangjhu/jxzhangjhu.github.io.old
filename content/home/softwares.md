@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Software"
-subtitle = "software list"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -70,10 +70,22 @@ subtitle = "software list"
   # text_color_light = true  
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
 
  # CSS class.
  css_class = ""
 +++
+<img src="uqpy.jpeg" alt="drawing" width="120"/>
 
+[Github repository](https://github.com/SURGroup/UQpy)
+
+UQpy is an open-source python package for modeling uncertainty in physical and mathematical systems. Capabilities include sampling, statistical inference, surrogate modeling, sensitivity analysis, dimension reduction, reliability and more.
+
+The [Shields Uncertainty Research Group](https://sites.google.com/site/jhusurg/) at the Department of Civil and Systems Engineering at Johns Hopkins has developed and maintain UQpy (Uncertainty Quantification with python).
+
+<!-- You can find more information here:
+
+Documentation
+Github repository
+Paper (Journal of Computational Science) -->

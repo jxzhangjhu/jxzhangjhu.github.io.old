@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Awards"
+title = "Awards and Honors"
 subtitle = ""
 
 [content]
@@ -60,7 +60,7 @@ subtitle = ""
   # text_color_light = true  
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
 
  # CSS class.
@@ -68,3 +68,24 @@ subtitle = ""
 
 +++
 
+- **Promising Early-Career Researcher Award**, CSMD, ORNL, 2020
+- **NeurIPS Travel Award**, 33th Conference on Neural Information Processing Systems, 2019
+- **LANL Travel Scholarship**, Machine Learning for Computational Fluid and Solid Dynamics, 2019
+- **NSF Travel Award**, UQ in Computational Solid and Structural Materials Modeling, 2019
+- **List of Most Cited Articles** (ranked 6/50, since 2016), *Reliability Engineering & System Safety*, 2019
+- **Chinese Government Award for Outstanding Self-financed Students Abroad**, 2018.
+- **Acheson J. Duncan Graduate Research Award**, Johns Hopkins University, 2018
+- **Foundation of North America Travel Award**, Symposium on Data Science & Statistics, 2018
+- **SIAM Travel Award**, SIAM Conference on Uncertainty Quantification, 2018
+- **Outstanding Contribution in Reviewing**, Mechanical System and Signal Processing, 2018
+- **USACM Travel Award**, U.S. National Congress on Computational Mechanics, 2017
+- **USACM Travel Award**, Uncertainty Quantification and Data-Driven Modeling Workshop, 2017
+- **Hopkins Extreme Materials Institute Graduate Travel Grant**, Johns Hopkins University, 2016
+- **Whiting School of Engineering Dean′s Fellowship**, Johns Hopkins University, 2014-2015
+- **Hopkins Extreme Materials Institute Research Grant**, Johns Hopkin University, 2014-2015
+- **Qian Ling-Xi Mechanics Scholarship**, Dalian, China, 2013
+- **hinese National Scholarship**, Ministry of Education of China, 2019, 2013
+<!-- - Chinese National Scholarship, Ministry of Education of China, 2009 -->
+
+<!-- - Provincial Outstanding Graduates, Liaoning, China, 2014. (top 2% of graduating students)
+- Outstanding Undergraduate Graduation Thesis, Dalian, China, 2011. (top 2% of graduating students) -->

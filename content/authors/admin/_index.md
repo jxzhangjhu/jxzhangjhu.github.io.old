@@ -24,23 +24,24 @@ organizations:
 
 interests:
 - Robust and trustworthy AI/ML
-- Physics-informed deep learning 
-- Uncertainty quantification 
-- Computational inverse design 
-- Materials informatics
-- Stochastic optimization and simulation
-- Autonomous robotics with deep RL 
+- Physics-informed deep learning
+- Uncertainty quantification
+- Inverse problems
+- Computational materials design
+- Generative models, normalizing flows
+- Graph representation learning
+- Anomaly detection
 
 education:
   courses:
   - course: PhD in Johns Hopkins University
-    institution: Civil Engineering
+    institution: Civil and Systems Engineering
     year: 2018
-  - course: MSE in Johns Hopkins University 
+  - course: MSE in Johns Hopkins University
     institution: Applied Mathematics & Statistics
     year: 2018
   - course: MSE in Dalian University of Technology (China)
-    institution: Computational Mechanics 
+    institution: Computational Mechanics
     year: 2014
   - course: BS in Dalian University of Technology (China)
     institution: Engineering Mechanics
@@ -102,11 +103,10 @@ social:
 #- Visitors
 ---
 
-Jiaxin Zhang is a Research Staff in Computer Science and Mathematics Division (CSMD) at Oak Ridge National Laboratory (ORNL). Prior to being a research staff, he was a postdoctoral fellow in the Scientific Computing Group within National Center for Computational Science (NCCS) at ORNL. 
+\
+I am now a Research Staff in Machine Learning and Data Analytics Group, Computer Science and Mathematics Division at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/). Prior to being a staff scientist, I was a postdoctoral fellow in the [National Center for Computational Sciences](https://www.olcf.ornl.gov/) at ORNL.
 
-His research broadly revolves around **machine learning**, **uncertainty quantification**, **computational design** and **optimization** for *advanced materials*, *mechanical* and *robotic systems*.  His research strives to fulfill that improvement of analyzing and designing intelligent, autonomous and robust engineering systems, by developing a computationally efficient and unified framework that can offer valuable insight. 
+My current research interest is on Artificial Intelligence for Science and Engineering (AISE). \
+My broadly interests revolve around **robust machine learning**, **uncertainty quantification**, **inverse problems** and **numerical optimization**, with a wide range of scientific applications to *computational mechanics*, *advanced materials design*, and *additive manufacturing systems*.
 
-
-
-
-
+ <!-- My research strives to fulfill that improvement of analyzing and designing intelligent, autonomous and robust engineering systems, by developing a computationally efficient and unified framework that can offer valuable insight via machine learning and artificial intelligence. -->

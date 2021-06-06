@@ -60,7 +60,7 @@ subtitle = ""
   # text_color_light = true  
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
 
  # CSS class.
@@ -68,3 +68,20 @@ subtitle = ""
 
 +++
 
+**AI/ML Conference Reviewer**
+- NeurIPS (2020, 2021), ICML(2021), AISTATS(2021)
+
+**Journal Reviewer**
+- Computer Methods in Applied Mechanics and Engineering
+- International Journal of Uncertainty Quantification
+- Mechanical Systems and Signal Processing
+- Structural and Multidisciplinary Optimization
+- International Journal of Approximate Reasoning
+- Scientific Report
+- Computational Materials Science
+- Journal of Alloys and Compounds 
+...
+
+**Minisymposium Organizer**
+- "Machine Learning for Solving Inverse Problems in Computational Chemistry and Materials Science" - SIAM Conference on Mathematical Aspects of Materials Science, 2021
+- "[Machine Learning for Solving Inverse Problems in Computational Mechanics and Materials](http://16.usnccm.org/MS_325)" - 16th U.S. National Congress on Computational Mechanics, 2021
