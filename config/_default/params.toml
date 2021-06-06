@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "zhangj@ornl.gov"
-phone = "443-676-0871"
+# phone = "443-676-0871"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -127,7 +127,7 @@ address = {street = "Oak Ridge National Laboratory", city = "Oak Ridge", region 
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "jxzhangjhu"
 
 ############################
 ## Regional Settings
