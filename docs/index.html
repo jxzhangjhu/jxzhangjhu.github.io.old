@@ -386,7 +386,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#research" data-target="#research"><span>Research</span></a>
+          <a class="nav-link " href="/#publications" data-target="#publications"><span>Publications</span></a>
         </li>
 
         
@@ -415,7 +415,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#publication_new" data-target="#publication_new"><span>Publications</span></a>
+          <a class="nav-link " href="/#research" data-target="#research"><span>Research</span></a>
         </li>
 
         
@@ -1071,104 +1071,32 @@
   </div>
   <div class="col-12 col-lg-8">
 
-    
+    <ul>
+<li>
+<p>[2021/6] Our benchmarking paper on graph neural networks (GNN) for materials chemistry was published in 
+<a href="https://www.nature.com/articles/s41524-021-00554-0" target="_blank" rel="noopener">npj Computational Materials</a>.</p>
+</li>
+<li>
+<p>[2021/5] I gave an invited talk titled &quot; Uncertainty Quantification in Deep Learning: A Bayesian Approach and Normalizing Flow&rdquo; to 
+<a href="https://ideal.mech.northwestern.edu/" target="_blank" rel="noopener">IDEAL Group</a> led by Prof. 
+<a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html" target="_blank" rel="noopener">Wei Chen</a> in Department of Mechanical Engineering at Northwestern University.</p>
+</li>
+<li>
+<p>[2021/5] I organized a minisymposium on &ldquo;Machine Learning for Solving Inverse Problems in Computational
+Chemistry and Materials Science&rdquo; at 
+<a href="https://www.siam.org/conferences/cm/conference/ms21" target="_blank" rel="noopener">SIAM Conference on Mathematical Aspects of Materials Science (SIAM MS21)</a></p>
+</li>
+<li>
+<p>[2021/5] Our paper on directional Gaussian smoothing for high-dimensional blackbox optimization was accepted by 
+<a href="https://auai.org/uai2021/accepted_papers" target="_blank" rel="noopener">UAI 2021</a>. The arxiv link is <a href="https://arxiv.org/abs/2002.03001">https://arxiv.org/abs/2002.03001</a></p>
+</li>
+<li>
+<p>[2021/4] I presented our two papers: &ldquo;Efficient inverse learning for materials design and discovery&rdquo; and &ldquo;Towards efficient uncertainty estimation in deep learning for robust energy prediction in crystal materials&rdquo; at ICLR 2021 Workshop on 
+<a href="https://sites.google.com/view/sedl-workshop" target="_blank" rel="noopener">Science and Engineering of Deep Learning</a>, and 
+<a href="https://simdl.github.io/" target="_blank" rel="noopener">Deep Learning for Simulation</a> respectively.</p>
+</li>
+</ul>
 
-    
-
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="research" class="home-section wg-pages   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Research Highlights</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
 
     
 
@@ -1261,46 +1189,152 @@
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Publications</h1>
-    <p>ddsada</p>
+    
   </div>
   <div class="col-12 col-lg-8">
 
-    <h2 id="-publications">📝 Publications</h2>
+    <h3 id="-ai--ml-conference-papers">📝 AI &amp; ML Conference Papers</h3>
+<hr>
+<!-- &nbsp;      -->
 <ol>
-<li>ICLR 2021 - 
-<a href="https://arxiv.org/abs/2003.05033" target="_blank" rel="noopener">Generalized Energy Based Models</a> by Michael Arbel et. al.</li>
+<li><strong>Jiaxin Zhang</strong>, Hoang Tran, Dan Lu, Guannan Zhang. 
+<a href="https://arxiv.org/abs/2002.03001" target="_blank" rel="noopener">Enabling Long-range Exploration in Minimization of Multimodal Functions</a>. <em>In Proc. 37th Conference on Uncertainty in Artificial Intelligence</em> (<strong>UAI 2021</strong>).</li>
 </ol>
-<p><img src="../../static/image1.jpg" alt="Example image"></p>
-   <!-- <img src="image1.jpg" width = "500" height = "300" alt="图片无法加载时显示的文字" align=center /> -->
-   <!-- ### <img src="image/image1.jpg" alt="JAX" height="15px"> &nbsp;JAX Packages -->
-   <!-- <img src="assets/normalizing-flow.svg" alt="Normalizing Flow" width="1000"> -->
-<blockquote>
-<p>
-<a href="https://github.com/MichaelArbel/GeneralizedEBM" target="_blank" rel="noopener">Github Code</a></p>
-</blockquote>
-   <!-- > We introduce the Generalized Energy Based Model (GEBM) for generative modelling. These models combine two trained components: a base distribution (generally an implicit model), which can learn the support of data with low intrinsic dimension in a high dimensional space; and an energy function, to refine the probability mass on the learned support. Both the energy function and base jointly constitute the final model, unlike GANs, which retain only the base distribution (the "generator"). GEBMs are trained by alternating between learning the energy and the base. We show that both training stages are well-defined: the energy is learned by maximising a generalized likelihood, and the resulting energy-based loss provides informative gradients for learning the base. Samples from the posterior on the latent space of the trained model can be obtained via MCMC, thus finding regions in this space that produce better quality samples. Empirically, the GEBM samples on image-generation tasks are of much better quality than those from the learned generator alone, indicating that all else being equal, the GEBM will outperform a GAN of the same complexity. When using normalizing flows as base measures, GEBMs succeed on density modelling tasks, returning comparable performance to direct maximum likelihood of the same networks. -->
+<!-- [Code](https://arxiv.org/abs/2002.03001) -->
 <ol start="2">
 <li>
-<p>ICLR 2021 - 
-<a href="https://arxiv.org/abs/2010.04230" target="_blank" rel="noopener">No MCMC for me: Amortized sampling for fast and stable training of energy-based models</a> by Will Grathwohl et al.</p>
-<blockquote>
-<p>
-<a href="https://github.com/wgrathwohl/VERA" target="_blank" rel="noopener">Github Code</a></p>
-</blockquote>
+<p><strong>Jiaxin Zhang</strong>, Sirui Bi, Guannan Zhang. 
+<a href="http://proceedings.mlr.press/v130/zhang21l.html" target="_blank" rel="noopener">A Scalable Gradient Free Method for Bayesian Experimental Design with Implicit Models</a>. <em>In Proc. 24th International Conference on Artificial Intelligence and Statistics</em> (<strong>AISTATS 2021</strong>).</p>
 </li>
 <li>
-<p>NeurIPS 2019 - 
-<a href="https://arxiv.org/abs/1903.08689" target="_blank" rel="noopener">Implicit Generation and Modeling with Energy-Based Models</a> by YiLun Du and Igor Mordatch</p>
-<blockquote>
-<p>
-<a href="https://github.com/openai/ebm_code_release" target="_blank" rel="noopener">Github Code</a></p>
-</blockquote>
+<p><strong>Jiaxin Zhang</strong>, Victor Fung. 
+<a href="http://proceedings.mlr.press/v130/zhang21l.html" target="_blank" rel="noopener">Efficient Inverse Learning for Materials Design and Discovery</a>. <em>In ICLR 2021 Workshop on Science and Engineering of Deep Learning</em> (<strong>ICLR 2021 Workshop</strong>).</p>
 </li>
 <li>
-<p>ICLR 2020 - 
-<a href="https://arxiv.org/abs/1912.03263" target="_blank" rel="noopener">Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One</a> by Will Grathwohl et al.</p>
+<p><strong>Jiaxin Zhang</strong>, Sirui Bi, Victor Fung, Guannan Zhang. 
+<a href="http://proceedings.mlr.press/v130/zhang21l.html" target="_blank" rel="noopener">Towards Efficient Uncertainty Estimation in Deep Learning for Robust Energy Prediction in Crystal Materials</a>. <em>In ICLR 2021 Workshop on Deep Learning for Simulation</em> (<strong>ICLR 2021 Workshop</strong>).</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Congjie Wei, Chenglin Wu. 
+<a href="https://arxiv.org/abs/2011.14172" target="_blank" rel="noopener">Thermodynamic Consistent Neural Networks for Learning Material Interfacial Mechanics</a>. <em>In NeurIPS 2020 Workshop on Interpretable Inductive Biases and Physically Structured Learning</em> (<strong>NeurIPS 2020 Workshop</strong>).</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Sirui Bi, Guannan Zhang. 
+<a href="https://arxiv.org/abs/2103.08594" target="_blank" rel="noopener">A hybrid gradient method to designing Bayesian experiments for implicit models</a>. <em>In NeurIPS 2020 Workshop on Machine Learning and the Physical Sciences</em> (<strong>NeurIPS 2020 Workshop</strong>).</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Sirui Bi, Guannan Zhang. 
+<a href="https://arxiv.org/abs/2011.14177" target="_blank" rel="noopener">Scalable deep-learning-accelerated topology optimization for additively manufactured materials</a>. <em>In NeurIPS 2020 Workshop on Machine Learning for Engineering Modeling, Simulation and Design</em> (<strong>NeurIPS 2020 Workshop</strong>).</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Sirui Bi, Guannan Zhang. 
+<a href="https://arxiv.org/abs/2007.15079" target="_blank" rel="noopener">A nonlocal-gradient descent method for inverse design in nanophotonics</a>. <em>In NeurIPS 2020 Workshop on Machine Learning for Engineering Modeling, Simulation and Design</em> (<strong>NeurIPS 2020 Workshop</strong>).</p>
+</li>
+<li>
+<p>Guannan Zhang, <strong>Jiaxin Zhang</strong>, Jacob Hinkle. 
+<a href="https://proceedings.neurips.cc/paper/2019/hash/464074179972cbbd75a39abc6954cd12-Abstract.html" target="_blank" rel="noopener">Learning nonlinear level sets for dimensionality reduction in function approximation</a>. <em>In Proc. 33rd Annual Conference on Neural Information Processing Systems</em> (<strong>NeurIPS 2019</strong>).</p>
 </li>
 </ol>
+<!-- --- -->
+<h3 id="-journal-papers">📝 Journal Papers</h3>
+<hr>
+<ol>
+<li>
+<p>Victor Fung, <strong>Jiaxin Zhang</strong>, Eric Juarez, Bobby Sumpter. 
+<a href="https://www.nature.com/articles/s41524-021-00554-0" target="_blank" rel="noopener">Benchmarking graph neural networks for materials chemistry</a>. In <em>npj Computational Materials</em> <strong>7</strong>, 84, 2021.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Sirui Bi, Guannan Zhang. 
+<a href="https://www.sciencedirect.com/science/article/pii/S0264127520307486" target="_blank" rel="noopener">A directional Gaussian smoothing optimization method for computational inverse design in nanophotonics</a>. In <em>Materials &amp; Design</em> <strong>197</strong>, 109213, 2021.</p>
+</li>
+<li>
+<p>Xianglin Liu, <strong>Jiaxin Zhang</strong>, Junqi Yin, Sirui Bi, Markus Eisenbach, Yang Wang. 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0927025620306261" target="_blank" rel="noopener">Monte Carlo simulation of order-disorder transition in refractory high entropy alloys: a data-driven approach</a>. In <em>Computational Materials Science</em> <strong>187</strong>, 110135, 2021.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>. 
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wics.1539" target="_blank" rel="noopener">Modern Monte Carlo methods for efficient uncertainty quantification and propagation: A survey</a>. In <em>Wiley Interdisciplinary Reviews: Computational Statistics</em> e1539, 2020.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Xianglin Liu, Sirui Bi, Junqi Yin, Guannan Zhang, Markus Eisenbach. 
+<a href="https://www.sciencedirect.com/science/article/pii/S0264127519306859" target="_blank" rel="noopener">Robust data-driven approach for predicting the configurational energy of high entropy alloys</a>. In <em>Materials &amp; Design</em> <strong>185</strong>, 108247, 2020.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Stephanie TerMaath, Michael Shields. 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327020305483" target="_blank" rel="noopener">Imprecise global sensitivity analysis using bayesian multimodel inference and importance sampling</a>. In <em>Mechanical Systems and Signal Processing</em> <strong>148</strong>, 107162, 2020.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Michael Shields. 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0888613X20301511" target="_blank" rel="noopener">On the quantification and efficient propagation of imprecise probabilities with copula dependence</a>. In <em>International Journal of Approximate Reasoning</em> <strong>122</strong>, 24-46, 2020.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Michael Shields, Stephanie TerMaath. 
+<a href="https://www.tandfonline.com/doi/abs/10.1080/15376494.2020.1733713" target="_blank" rel="noopener">Probabilistic modeling and prediction of out-of-plane unidirectional composite lamina properties</a>. In <em>Mechanics of Advanced Materials and Structures</em> 1-17, 2020.</p>
+</li>
+<li>
+<p>Massimiliano Lupo Pasini, Ying Wai Li, Junqi Yin, <strong>Jiaxin Zhang</strong>, Kipton Barros, Markus Eisenbach. 
+<a href="https://iopscience.iop.org/article/10.1088/1361-648X/abcb10/meta" target="_blank" rel="noopener">Fast and stable deep-learning predictions of material properties for solid solution alloys</a>. In <em>Journal of Physics: Condensed Matter</em> <strong>33</strong>, 084005, 2020.</p>
+</li>
+<li>
+<p>Kuo Tian, Zengcong Li, Xiangtao Ma, Haixin Zhao, <strong>Jiaxin Zhang</strong>, Bo Wang. 
+<a href="https://link.springer.com/article/10.1007/s00158-019-02432-2" target="_blank" rel="noopener">Toward the robust establishment of variable-fidelity surrogate models for hierarchical stiffened shells by two-step adaptive updating approach</a>. In <em>Structural and Multidisciplinary Optimization</em> <strong>61</strong>, 1515–1528, 2020.</p>
+</li>
+<li>
+<p>Kuo Tian, <strong>Jiaxin Zhang</strong>, Xiangtao Ma, Yuwei Li, Yu Sun, Peng Hao. 
+<a href="https://link.springer.com/article/10.1007/s00158-019-02432-2" target="_blank" rel="noopener">Buckling surrogate-based optimization framework for hierarchical stiffened composite shells by enhanced variance reduction method</a>. In <em>Journal of Reinforced Plastics and Composites</em> <strong>38</strong>, 959–973, 2019.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Michael Shields. 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0266892018300535" target="_blank" rel="noopener">Efficient Monte Carlo resampling for probability measure changes from Bayesian updating</a>. In <em>Probabilistic Engineering Mechanics</em> <strong>55</strong>, 54–66, 2019.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Michael Shields. 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0045782518300525" target="_blank" rel="noopener">The effect of prior probabilities on quantification and propagation of imprecise probabilities resulting from small datasets</a>. In <em>Computer Methods in Applied Mechanics and Engineering</em> <strong>334</strong>, 483–506, 2018.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Michael Shields. 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0888327017302376" target="_blank" rel="noopener">On the quantification and efficient propagation of imprecise probabilities resulting from small datasets</a>. In <em>Mechanical Systems and Signal Processing</em> <strong>98</strong>, 465–483, 2018.</p>
+</li>
+<li>
+<p>Kuo Tian, Bo Wang, Ke Zhang, <strong>Jiaxin Zhang</strong>, Peng Hao, Ying Wu. 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0263823117315185" target="_blank" rel="noopener">Tailoring the optimal load-carrying efficiency of hierarchical stiffened shells by competitive sampling</a>. In <em>Thin-Walled Structures</em> <strong>133</strong>, 216–225, 2018.</p>
+</li>
+<li>
+<p>Michael Shields, <strong>Jiaxin Zhang</strong>. 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0951832015003543" target="_blank" rel="noopener">The generalization of Latin hypercube sampling</a>. In <em>Reliability Engineering &amp; System Safety</em> <strong>148</strong>, 96–108, 2016.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Bo Wang, Fei Niu, Gengdong Cheng. 
+<a href="https://www.tandfonline.com/doi/abs/10.1080/15397734.2014.942816" target="_blank" rel="noopener">Design Optimization of Connection Section for Concentrated Force Diffusion</a>. In <em>Mechanics Based Design of Structures and Machines</em> <strong>43</strong>, 209-231, 2015.</p>
+</li>
+<li>
+<p>Bo Wang, Peng Hao, Gang Li, <strong>Jiaxin Zhang</strong>, Kaifan Du, Kuo Tian, Xiaojun Wang, Xiaohan Tang. 
+<a href="https://link.springer.com/article/10.1007/s10409-014-0003-3" target="_blank" rel="noopener">Optimum design of hierarchical stiffened shells for low imperfection sensitivity</a>. In <em>Acta Mechanica Sinica</em> <strong>30</strong>, 391-402, 2014.</p>
+</li>
+<li>
+<p>Sirui Bi, <strong>Jiaxin Zhang</strong>, Qianjin Yue. 
+<a href="https://www.researchgate.net/publication/271273480_Buckling_control_and_energy_absorption_of_corrugated_web_beam_under_axial_compression" target="_blank" rel="noopener">Buckling control and energy absorption of corrugated web beam under axial compression</a>. In <em>Chinese Computer Aided Engineering</em> <strong>23</strong>, 79-85, 2014.</p>
+</li>
+<li>
+<p><strong>Jiaxin Zhang</strong>, Bo Wang, Fei Niu, Gengdong Cheng. 
+<a href="https://www.researchgate.net/publication/287516016_Optimal_design_of_concentrated_force_diffusion_for_short_shell_structure_using_hierarchical_radial_ribs" target="_blank" rel="noopener">Optimal design of concentrated force diffusion for short shell structure using hierarchical radial ribs</a>. In <em>Chinese J Comput Mech</em> <strong>31</strong>, 141-148, 2014.</p>
+</li>
+</ol>
+<h3 id="-phd-thesis">📝 Ph.D. Thesis</h3>
+<hr>
+<ol>
+<li><strong>Jiaxin Zhang</strong>. 
+<a href="https://jscholarship.library.jhu.edu/handle/1774.2/60067" target="_blank" rel="noopener">Uncertainty Quantification From Small Data: A Multimodel Approach</a>. Johns Hopkins University, 2018.</li>
+</ol>
+<!-- 2. ICLR 2021 - [No MCMC for me: Amortized sampling for fast and stable training of energy-based models](https://arxiv.org/abs/2010.04230) by Will Grathwohl et al.
+
+   >[Github Code](https://github.com/wgrathwohl/VERA)
+
+3. NeurIPS 2019 - [Implicit Generation and Modeling with Energy-Based Models](https://arxiv.org/abs/1903.08689) by YiLun Du and Igor Mordatch
+
+   >[Github Code](https://github.com/openai/ebm_code_release)
+
+4. ICLR 2020 - [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) by Will Grathwohl et al. -->
 
 
     
@@ -1429,6 +1463,103 @@
     <div class="isotope projects-container js-layout-masonry ">
       
     </div>
+
+  </div>
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="research" class="home-section wg-pages   "  >
+    <div class="container">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Research Highlights</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+
+    
+
+    
 
   </div>
 </div>
