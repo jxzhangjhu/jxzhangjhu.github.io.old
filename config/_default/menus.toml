@@ -16,12 +16,12 @@
 [[main]]
     name = "Research"
     url = "#research"
-    weight = 1
+    weight = 20
 
 [[main]]
   name = "Publications"
-  url = "#publication_new"
-  weight = 20
+  url = "#publications"
+  weight = 10
 
 [[main]]
     name = "Projects"

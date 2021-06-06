@@ -67,3 +67,15 @@ subtitle = ""
  css_class = ""
 
 +++
+
+
+- [2021/6] Our benchmarking paper on graph neural networks (GNN) for materials chemistry was published in [npj Computational Materials](https://www.nature.com/articles/s41524-021-00554-0).
+
+- [2021/5] I gave an invited talk titled " Uncertainty Quantification in Deep Learning: A Bayesian Approach and Normalizing Flow" to [IDEAL Group](https://ideal.mech.northwestern.edu/) led by Prof. [Wei Chen](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/chen-wei.html) in Department of Mechanical Engineering at Northwestern University.
+
+- [2021/5] I organized a minisymposium on "Machine Learning for Solving Inverse Problems in Computational
+Chemistry and Materials Science" at [SIAM Conference on Mathematical Aspects of Materials Science (SIAM MS21)](https://www.siam.org/conferences/cm/conference/ms21)
+
+- [2021/5] Our paper on directional Gaussian smoothing for high-dimensional blackbox optimization was accepted by [UAI 2021](https://auai.org/uai2021/accepted_papers). The arxiv link is https://arxiv.org/abs/2002.03001
+
+- [2021/4] I presented our two papers: "Efficient inverse learning for materials design and discovery" and "Towards efficient uncertainty estimation in deep learning for robust energy prediction in crystal materials" at ICLR 2021 Workshop on [Science and Engineering of Deep Learning](https://sites.google.com/view/sedl-workshop), and [Deep Learning for Simulation](https://simdl.github.io/) respectively.
