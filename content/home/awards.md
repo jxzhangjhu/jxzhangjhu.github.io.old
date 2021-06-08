@@ -84,7 +84,7 @@ subtitle = ""
 - **Whiting School of Engineering Dean′s Fellowship**, Johns Hopkins University, 2014-2015
 - **Hopkins Extreme Materials Institute Research Grant**, Johns Hopkin University, 2014-2015
 - **Qian Ling-Xi Mechanics Scholarship**, Dalian, China, 2013
-- **hinese National Scholarship**, Ministry of Education of China, 2019, 2013
+- **Chinese National Scholarship**, Ministry of Education of China, 2019, 2013
 <!-- - Chinese National Scholarship, Ministry of Education of China, 2009 -->
 
 <!-- - Provincial Outstanding Graduates, Liaoning, China, 2014. (top 2% of graduating students)
