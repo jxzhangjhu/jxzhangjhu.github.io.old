@@ -46,7 +46,7 @@ subtitle = "Journal & Conference"
 ### 📝 Journal Papers
 ---  
 
-1. Congjie Wei, **Jiaxin Zhang**, Kenneth M Liechti, Chenglin Wu. [Data Driven Modeling of Interfacial Traction Separation Relations using Thermodynamic Consistent Neural Network (TCNN)] (https://arxiv.org/abs/2011.09946). In *Journal of the Mechanics and Physics of Solids*, 2021 (in review).
+1. Congjie Wei, **Jiaxin Zhang**, Kenneth M Liechti, Chenglin Wu. [Data Driven Modeling of Interfacial Traction Separation Relations using Thermodynamic Consistent Neural Network (TCNN)](https://arxiv.org/abs/2011.09946). In *Journal of the Mechanics and Physics of Solids*, 2021 (in review).
 
 2. Victor Fung, **Jiaxin Zhang**, Guoxiang Hu, P Ganesh, Bobby G Sumpter.[Inverse design of two-dimensional materials with invertible neural networks](https://arxiv.org/abs/2106.03013).  In *Nature Communications*, 2021 (in review).
 
