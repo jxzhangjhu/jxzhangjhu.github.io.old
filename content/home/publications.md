@@ -22,9 +22,15 @@ subtitle = "Journal & Conference"
 
 2. **Jiaxin Zhang**, Sirui Bi, Guannan Zhang. [A Scalable Gradient Free Method for Bayesian Experimental Design with Implicit Models](http://proceedings.mlr.press/v130/zhang21l.html). *In Proc. 24th International Conference on Artificial Intelligence and Statistics* (**AISTATS 2021**).
 
-3. **Jiaxin Zhang**, Victor Fung. [Efficient Inverse Learning for Materials Design and Discovery](http://proceedings.mlr.press/v130/zhang21l.html). *In ICLR 2021 Workshop on Science and Engineering of Deep Learning* (**ICLR 2021 Workshop**).
+3. **Jiaxin Zhang**, Jan Drgona, Sayak Mukherjee, Mahantesh Halappanavar, Frank Liu. [Variational Generative Flows for Reconstruction Uncertainty Estimation](https://sites.google.com/view/udlworkshop2021/home). *In ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning* (**ICML 2021 Workshop**).
 
-4. **Jiaxin Zhang**, Sirui Bi, Victor Fung, Guannan Zhang. [Towards Efficient Uncertainty Estimation in Deep Learning for Robust Energy Prediction in Crystal Materials](http://proceedings.mlr.press/v130/zhang21l.html). *In ICLR 2021 Workshop on Deep Learning for Simulation* (**ICLR 2021 Workshop**).
+4. Zhuohang Li, Luyang Liu, **Jiaxin Zhang**, Jian Liu. [Byzantine-resilient Aggregation for Federated Learning via Spatial-temporal Pattern Analysis](http://federated-learning.org/fl-icml-2021/). *In ICML 2021 Workshop on Federated Learning for User Privacy and Data Confidentiality* (**ICML 2021 Workshop**).
+
+5. Jingbo Sun, Li Yang, **Jiaxin Zhang**, Frank Liu, Mahantesh Halappanavar, Deliang Fan, Yu Cao. [Self-supervised Novelty Detection for Continual Learning: A Gradient-based Approach Boosted by Binary Classification](https://sites.google.com/view/sscl-workshop-ijcai-2021/). *In IJCAI 2021 Workshop on Continual Semi-Supervised Learning* (**IJCAI 2021 Workshop**).
+
+3. **Jiaxin Zhang**, Victor Fung. [Efficient Inverse Learning for Materials Design and Discovery](https://sites.google.com/view/sedl-workshop). *In ICLR 2021 Workshop on Science and Engineering of Deep Learning* (**ICLR 2021 Workshop**).
+
+4. **Jiaxin Zhang**, Sirui Bi, Victor Fung, Guannan Zhang. [Towards Efficient Uncertainty Estimation in Deep Learning for Robust Energy Prediction in Crystal Materials](https://simdl.github.io/overview/). *In ICLR 2021 Workshop on Deep Learning for Simulation* (**ICLR 2021 Workshop**).
 
 5. **Jiaxin Zhang**, Congjie Wei, Chenglin Wu. [Thermodynamic Consistent Neural Networks for Learning Material Interfacial Mechanics](https://arxiv.org/abs/2011.14172). *In NeurIPS 2020 Workshop on Interpretable Inductive Biases and Physically Structured Learning* (**NeurIPS 2020 Workshop**).
 
@@ -40,9 +46,15 @@ subtitle = "Journal & Conference"
 ### 📝 Journal Papers
 ---  
 
-1. Victor Fung, **Jiaxin Zhang**, Eric Juarez, Bobby Sumpter. [Benchmarking graph neural networks for materials chemistry](https://www.nature.com/articles/s41524-021-00554-0). In *npj Computational Materials* **7**, 84, 2021.
+1. Congjie Wei, **Jiaxin Zhang**, Kenneth M Liechti, Chenglin Wu. [Data Driven Modeling of Interfacial Traction Separation Relations using Thermodynamic Consistent Neural Network (TCNN)] (https://arxiv.org/abs/2011.09946). In *Journal of the Mechanics and Physics of Solids*, 2021 (in review).
 
-2. **Jiaxin Zhang**, Sirui Bi, Guannan Zhang. [A directional Gaussian smoothing optimization method for computational inverse design in nanophotonics](https://www.sciencedirect.com/science/article/pii/S0264127520307486). In *Materials & Design* **197**, 109213, 2021.
+2. Victor Fung, **Jiaxin Zhang**, Guoxiang Hu, P Ganesh, Bobby G Sumpter.[Inverse design of two-dimensional materials with invertible neural networks](https://arxiv.org/abs/2106.03013).  In *Nature Communications*, 2021 (in review).
+
+3. Victor Fung, **Jiaxin Zhang**, Eric Juarez, Bobby Sumpter. [Benchmarking graph neural networks for materials chemistry](https://www.nature.com/articles/s41524-021-00554-0). In *npj Computational Materials* **7**, 84, 2021.
+
+4. Kuo Tian, Zengcong Li, **Jiaxin Zhang**, Lei Huang, Bo Wang. [Transfer learning based variable-fidelity surrogate model for shell buckling prediction](https://www.sciencedirect.com/science/article/abs/pii/S0263822321007479). In *Composite Structures*, 114285, 2021.
+
+3. **Jiaxin Zhang**, Sirui Bi, Guannan Zhang. [A directional Gaussian smoothing optimization method for computational inverse design in nanophotonics](https://www.sciencedirect.com/science/article/pii/S0264127520307486). In *Materials & Design* **197**, 109213, 2021.
 
 3. Xianglin Liu, **Jiaxin Zhang**, Junqi Yin, Sirui Bi, Markus Eisenbach, Yang Wang. [Monte Carlo simulation of order-disorder transition in refractory high entropy alloys: a data-driven approach](https://www.sciencedirect.com/science/article/abs/pii/S0927025620306261). In *Computational Materials Science* **187**, 110135, 2021.
 
