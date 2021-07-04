@@ -68,6 +68,11 @@ subtitle = ""
 
 +++
 
+- [2021/6] I gave a talk titled *Uncertainty-Aware Inverse Learning using Normalizing Flows* to DOE ASCR Dn2CS project. 
+
+- [2021/6] I am honored to give a one-hour talk about my recent work *Uncertainty-Aware Inverse Learning using Generative Flows*, invited by U.S. Association for Computational Mechanics ([USACM](https://www.usacm.org/)), Uncertainty Quantification (UQ) and Probabilistic Modeling Technical Thrust Aera ([USACM TT-UQ](https://lnkd.in/eGzNPj5) and the talk video is available at: https://lnkd.in/exbHm5n.
+
+- [2021/6] our paper on *transfer learning based variable-fidelity surrogate models* was published in [Composite Structures](https://www.sciencedirect.com/science/article/abs/pii/S0263822321007479).
 
 - [2021/6] Our benchmarking paper on graph neural networks (GNN) for materials chemistry was published in [npj Computational Materials](https://www.nature.com/articles/s41524-021-00554-0).
 
