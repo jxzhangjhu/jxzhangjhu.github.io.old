@@ -69,7 +69,7 @@ subtitle = ""
 +++
 
 **AI/ML Conference Reviewer**
-- NeurIPS (2020, 2021), ICLR (2021,2022),ICML(2021), AISTATS(2021)
+- NeurIPS (2020, 2021), ICLR (2021,2022), ICML(2021), AISTATS(2021)
 
 **Journal Reviewer**
 - Computer Methods in Applied Mechanics and Engineering
@@ -80,8 +80,13 @@ subtitle = ""
 - Scientific Report
 - Computational Materials Science
 - Journal of Alloys and Compounds
-...
+- ...
 
 **Minisymposium Organizer**
-- "Machine Learning for Solving Inverse Problems in Computational Chemistry and Materials Science" - SIAM Conference on Mathematical Aspects of Materials Science, 2021
-- "[Machine Learning for Solving Inverse Problems in Computational Mechanics and Materials](http://16.usnccm.org/MS_325)" - 16th U.S. National Congress on Computational Mechanics, 2021
+- "Machine Learning for Solving Inverse Problems in Computational Chemistry and Materials Science" - [SIAM Conference on Mathematical Aspects of Materials Science (MS 21)](https://www.siam.org/conferences/cm/conference/ms21), 2021
+- "Machine Learning for Solving Inverse Problems in Computational Mechanics and Materials" - [16th U.S. National Congress on Computational Mechanics](http://16.usnccm.org/), 2021
+
+**Professional Membership**
+- [SIAM](https://www.siam.org/) - Society for Industrial and Applied Mathematics
+- [USACM](https://www.usacm.org/) - U.S. Association for Computational Mechanics
+- [ISSMO](https://www.issmo.net/) - International Society for Structural and Multidisciplinary Optimization

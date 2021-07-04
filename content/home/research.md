@@ -68,4 +68,6 @@ subtitle = ""
 
 +++
 
-Coming soon
+**Overall Objective** is to develop foundational methods for efficient and robust learning, design and decision-making in complex science and engineering problems.
+
+<img src="overview2.jpg" alt="drawing" width="800"/>

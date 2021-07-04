@@ -76,13 +76,22 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
 <img src="uqpy.jpeg" alt="drawing" width="120"/>
 
-[Github repository](https://github.com/SURGroup/UQpy)
+### **UQpy**: [Github repository](https://github.com/SURGroup/UQpy)
 
-UQpy is an open-source python package for modeling uncertainty in physical and mathematical systems. Capabilities include sampling, statistical inference, surrogate modeling, sensitivity analysis, dimension reduction, reliability and more.
+UQpy (Uncertainty Quantification with python) is an open-source python package for modeling uncertainty in physical and mathematical systems. Capabilities include sampling, statistical inference, surrogate modeling, sensitivity analysis, dimension reduction, reliability and more. The [Shields Uncertainty Research Group](https://sites.google.com/site/jhusurg/) at the Department of Civil and Systems Engineering at Johns Hopkins has developed and maintain UQpy.
 
-The [Shields Uncertainty Research Group](https://sites.google.com/site/jhusurg/) at the Department of Civil and Systems Engineering at Johns Hopkins has developed and maintain UQpy (Uncertainty Quantification with python).
+**Reference** - Audrey Olivier, Dimitris G. Giovanis, B.S. Aakash, Mohit Chauhan, Lohit Vandanapu, Michael D. Shields. [UQpy: A general purpose Python package and development environment for uncertainty quantification](https://www.sciencedirect.com/science/article/abs/pii/S1877750320305056). In *Journal of Computational Science* **47**, 101204, 2020.
+
+---
+### **MatDeepLearn**: [Github repository](https://github.com/vxfung/MatDeepLearn)
+
+MatDeepLearn is a platform for testing and using graph neural networks (GNNs) and other machine learning (ML) models for materials chemistry applications. MatDeepLearn takes in data in the form of atomic structures and their target properties, processes the data into graphs, trains the ML model of choice (optionally with hyperparameter optimization), and provides predictions on unseen data. It allows for different GNNs to be benchmarked on diverse datasets drawn from materials repositories as well as conventional training/prediction tasks.
+
+**Reference** - Victor Fung, Jiaxin Zhang, Eric Juarez, Bobby Sumpter. [Benchmarking graph neural networks for materials chemistry](https://www.nature.com/articles/s41524-021-00554-0). In *npj Computational Materials* **7**, 84, 2021.
+
 
 <!-- You can find more information here:
 
