@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 25  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Research Highlights"
 subtitle = ""
@@ -67,7 +67,35 @@ subtitle = ""
  css_class = ""
 
 +++
+### **Research Overview**
 
-**Overall Objective** is to develop foundational methods for efficient and robust learning, design and decision-making in complex science and engineering problems.
+The overall objective is to develop foundational methods for efficient and robust learning, design and decision-making in complex science and engineering problems.
+<p align="center">
+<img src="overview3.jpg" alt="drawing" width="650"/>
+</p>
 
-<img src="overview2.jpg" alt="drawing" width="800"/>
+<!-- https://davidwells.io/snippets/how-to-align-images-in-markdown -->
+
+---
+### Accelerated Inverse Learning with Invertible Neural Networks
+We propose a novel approach leveraging recent advances in deep invertible models incorporated with a precise localization via gradient descent for efficiently and accurately solving inverse problems and apply to advanced materials design and discovery.
+<p align="center">
+<img src="inverse_learning.jpg" alt="drawing" width="800"/>
+</p>
+
+---
+### A Scalable Directional Gaussian Smoothing (DGS) for Blackbox Optimization
+We develop a nonlocal gradient operator, Directional Gaussian smoothing (DGS), to skip small local optima and capture major structures of the loss’s landscape in black-box optimization, specifically high-dimensional cases (e.g., scale to 2000D). Please see our arxiv: https://lnkd.in/eC2dS-v
+
+We have successfully applied DGS for a couple of scientific applications, including advanced materials design, structural optimization, heat conduction model calibration in additive manufacturing. Please check our Materials & Design paper https://lnkd.in/ePypMVt
+
+<p align="center">
+<img src="one_page.png" alt="drawing" width="800"/>
+</p>
+
+---
+###  Benchmarking graph neural networks for materials chemistry
+We present a workflow and testing platform, MatDeepLearn[Github repository](https://github.com/vxfung/MatDeepLearn), for quickly and reproducibly assessing and comparing GNNs and other machine learning models, and we use this platform to optimize and evaluate a selection of top performing GNNs on several representative datasets in computational materials chemistry.
+<p align="center">
+<img src="gnn2.jpg" alt="drawing" width="800"/>
+</p>
