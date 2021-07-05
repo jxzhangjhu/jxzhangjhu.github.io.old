@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Journal & Conference"
+subtitle = "Journal & Conference Papers"
 
 +++
 

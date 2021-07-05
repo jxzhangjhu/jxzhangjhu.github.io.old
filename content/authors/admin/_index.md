@@ -35,16 +35,16 @@ interests:
 education:
   courses:
   - course: PhD in Johns Hopkins University
-    institution: Civil and Systems Engineering
+    institution: Civil and Systems Engineering (Advisor - Prof. Michael Shields)
     year: 2018
   - course: MSE in Johns Hopkins University
-    institution: Applied Mathematics & Statistics
+    institution: Applied Mathematics & Statistics (Advisor - Prof. John Wierman)
     year: 2018
   - course: MSE in Dalian University of Technology (China)
-    institution: Computational Mechanics
+    institution: Computational Mechanics (Advisor - Prof. Gengdong Cheng)
     year: 2014
   - course: BS in Dalian University of Technology (China)
-    institution: Engineering Mechanics
+    institution: Engineering Mechanics (Advisor - Prof. Bo Wang)
     year: 2011
 
 # Social/Academic Networking
@@ -82,9 +82,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1436261/jiaxin-zhang/
-- icon: cv
-  icon_pack: ai
-  link: https://twitter.com/jxzhangjhu
+#- icon: cv
+#  icon_pack: ai
+#  link: https://twitter.com/jxzhangjhu
 
 
 # Link to a PDF of your resume/CV from the About widget.
