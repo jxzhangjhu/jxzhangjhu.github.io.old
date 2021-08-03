@@ -86,9 +86,9 @@ We propose a novel approach leveraging recent advances in deep invertible models
 
 #### **Related papers**
 
-[1] Victor Fung, **Jiaxin Zhang**, Guoxiang Hu, P Ganesh, Bobby G Sumpter.[Inverse design of two-dimensional materials with invertible neural networks](https://arxiv.org/abs/2106.03013).  In *Nature Communications*, 2021 (in review).
+[1] **Jiaxin Zhang**, Victor Fung. [Efficient Inverse Learning for Materials Design and Discovery](https://sites.google.com/view/sedl-workshop). *In ICLR 2021 Workshop on Science and Engineering of Deep Learning*.
 
-[2] **Jiaxin Zhang**, Victor Fung. [Efficient Inverse Learning for Materials Design and Discovery](https://sites.google.com/view/sedl-workshop). *In ICLR 2021 Workshop on Science and Engineering of Deep Learning*.
+[2] Victor Fung, **Jiaxin Zhang**, Guoxiang Hu, P Ganesh, Bobby G Sumpter.[Inverse design of two-dimensional materials with invertible neural networks](https://arxiv.org/abs/2106.03013).  In *Nature Communications*, 2021 (in review).
 
 
 ---
