@@ -68,6 +68,23 @@ subtitle = ""
 
 +++
 
+
+- [2021/10] Our paper titled [On the Stochastic Stability of Deep Markov Models](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=28603) has been accepted by ***NeurIPS 2021***.
+
+- [2021/10] Our paper titled **Inverse design of two-dimensional materials with invertible neural networks** has been accepted by *npj Computational Materials - Nature*
+
+- [2021/10] Our paper titled **Self-Supervised Anomaly Detection via Neural Autoregressive Flows with Active Learning** has been accepted by *NeurIPS 2021 workshop on Deep Generative Models and Downstream Applications*
+
+- [2021/9] Our LDRD proposal **Reinforced Adversarial Learning for Graph Generation and Goal‑Oriented Design** and **Deep Reinforcement Learning for Inconsistently Sized Action‑Spaces** are both funded by ORNL LDRD office and \$250k for each one!
+
+- [2021/9] Our paper titled *Byzantine-robust Federated Learning through Spatial-temporal Analysis of Local Model Updates* has been accepted by the *27th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2021)*
+
+- [2021/8] I gave an invited talk titled *Probabilistic self‑supervised anomaly detection with normalizing flows* Department of Industrial Systems Engineering, The University of Tennessee, Knoxville
+
+- [2021/7] I gave an invited talk titled *Uncertainty‑Aware Inverse Learning with Normalizing Flows* to the Probabilistic Seminar Series, GE Global Research
+
+- [2021/7] I gave an invited keynote presentation titled *Efficient Inverse Problem Learning with Precise Localization and Exploratory Sampling* at the 16th U.S. National Congress on Computational Mechanics (USNCCM 16), Jul. 2021
+
 - [2021/6] I gave a talk titled *Uncertainty-Aware Inverse Learning using Normalizing Flows* to DOE ASCR Dn2CS project.
 
 - [2021/6] I am honored to give a one-hour talk about my recent work *Uncertainty-Aware Inverse Learning using Generative Flows*, invited by U.S. Association for Computational Mechanics[USACM](https://www.usacm.org/), Uncertainty Quantification (UQ) and Probabilistic Modeling Technical Thrust Aera[USACM TT-UQ](https://lnkd.in/eGzNPj5) and the talk video is available at: https://lnkd.in/exbHm5n.

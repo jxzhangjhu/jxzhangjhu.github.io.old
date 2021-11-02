@@ -23,14 +23,14 @@ organizations:
 #bio: Staff Scientist at Oak Ridge National Laboratory
 
 interests:
-- Robust and trustworthy AI/ML
-- Physics-informed deep learning
+- Robust and trustworthy AI and ML
 - Uncertainty quantification
+- Probabilsitic generative models
 - Inverse problems
-- Computational materials design
-- Generative models, normalizing flows
-- Graph representation learning
+- Physics-informed deep learning
 - Anomaly detection
+- Computational materials design
+- High-performance computing
 
 education:
   courses:
@@ -73,15 +73,15 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Jiaxin_Zhang6
-- icon: orcid
+#- icon: orcid
   icon_pack: ai
   link: http://orcid.org/0000-0002-7576-6110
-- icon: mendeley
+#- icon: mendeley
   icon_pack: ai
   link: https://www.mendeley.com/profiles/jiaxin-zhang2/
-- icon: publons
-  icon_pack: ai
-  link: https://publons.com/researcher/1436261/jiaxin-zhang/
+#- icon: publons
+#  icon_pack: ai
+#  link: https://publons.com/researcher/1436261/jiaxin-zhang/
 #- icon: cv
 #  icon_pack: ai
 #  link: https://twitter.com/jxzhangjhu
@@ -104,9 +104,9 @@ social:
 ---
 
 \
-I am now a Research Staff in Machine Learning and Data Analytics Group, Computer Science and Mathematics Division at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/). Prior to being a staff scientist, I was a postdoctoral fellow in the [National Center for Computational Sciences](https://www.olcf.ornl.gov/) at ORNL.
+I am now a Research Staff in Data Analysis and Machine Learning Group, Computer Science and Mathematics Division at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/). Prior to being a staff scientist, I was a postdoctoral fellow in the [National Center for Computational Sciences](https://www.olcf.ornl.gov/) at ORNL.
 
-My current research interest is on Artificial Intelligence for Science and Engineering (AISE). \
-My broadly interests revolve around **robust machine learning**, **uncertainty quantification**, **inverse problems** and **numerical optimization**, with a wide range of scientific applications to *computational mechanics*, *advanced materials design*, and *additive manufacturing systems*.
+My current research interest is on Artificial Intelligence for Robust Engineering and Scientific Discovery (AIRESD), broadly involving **scientific machine learning**, **uncertainty quantification**, **inverse problems**, **generative design and optimization** with applications to *computational mechanics*, *advanced materials design*, and *additive manufacturing systems*.
+
 
  <!-- My research strives to fulfill that improvement of analyzing and designing intelligent, autonomous and robust engineering systems, by developing a computationally efficient and unified framework that can offer valuable insight via machine learning and artificial intelligence. -->

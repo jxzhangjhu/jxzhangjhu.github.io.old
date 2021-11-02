@@ -92,6 +92,13 @@ MatDeepLearn is a platform for testing and using graph neural networks (GNNs) an
 
 **Reference** - Victor Fung, Jiaxin Zhang, Eric Juarez, Bobby Sumpter. [Benchmarking graph neural networks for materials chemistry](https://www.nature.com/articles/s41524-021-00554-0). In *npj Computational Materials* **7**, 84, 2021.
 
+---
+### **MatDesINNe**: [Github repository](https://github.com/jxzhangjhu/MatDesINNe)
+
+The ability to readily design novel materials with chosen functional properties on-demand represents a next frontier in materials discovery. However, thoroughly and efficiently sampling the entire design space in a computationally tractable manner remains a highly challenging task. To tackle this problem, we propose an inverse design framework (MatDesINNe) utilizing invertible neural networks which can map both forward and reverse processes between the design space and target property.
+
+**Reference** - Victor Fung, **Jiaxin Zhang**, Guoxiang Hu, P Ganesh, Bobby G Sumpter.[Inverse design of two-dimensional materials with invertible neural networks](https://arxiv.org/abs/2106.03013).  In *npj Computational Materials*, 2021 (accepted).
+
 
 <!-- You can find more information here:
 

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Projects"
+title = "Funded Projects"
 subtitle = "Current Grants"
 
 [content]
@@ -68,15 +68,30 @@ subtitle = "Current Grants"
 
 **Roles: Principal Investigator (PI)/Co-PI/Task Lead/Senior Personnel**
 
-- Department of Energy - Advanced Scientific Computing Research (DOE-ASCR): [Decision and Control of Complex Systems: A Data Driven Framework](https://science.osti.gov/-/media/ascr/pdf/programdocuments/docs/2020/ArtificialIntelligenceandDecisionSupportforComplexSystemsAwards.pdf?la=en&hash=2889EB05AFFFB531C052BB6ECE0CB430A2A77FFB) (Sep. 2020 – Aug.2023)
+- Department of Energy - ORNL Laboratory Directed Research & Development (LDRD): [Anomaly Detection in Artificial Intelligence for Robust Engineering \& Science](https://www.ornl.gov/ai-initiative) (Oct. 2021 – Oct. 2022) - Total amount: $250K
+  > Develop novel anomaly detection approaches for improving robustness in deep learning
 
-- Department of Energy - Advanced Scientific Computing Research (DOE-ASCR): [Black-box training for scientific machine learning models](https://csmd.ornl.gov/project/black-box-training-scientific-machine-learning-models) (Sep. 2020 – Aug. 2022)
+- Department of Energy - ORNL Laboratory Directed Research & Development (LDRD): [Reinforced Adversarial Learning for Graph Generation and Goal-Oriented Design](https://www.ornl.gov/ai-initiative) (Oct. 2021 – Oct. 2022) - Total amount: $250K
+    > Develop novel graph-based generative models for crystal materials design and discovery
 
-- Department of Energy - Advanced Scientific Computing Research (DOE-ASCR): [A stochastic optimal control framework for quantifying and reducing uncertainties in deep learning](https://csmd.ornl.gov/project/stochastic-optimal-control-framework-quantifying-and-reducing-uncertainties-deep-learning) (Sep. 2019 – Aug. 2021)
+- Department of Energy - ORNL Laboratory Directed Research & Development (LDRD): [Deep Reinforcement Learning for Inconsistently Sized Action-Spaces](https://www.ornl.gov/ai-initiative) (Oct. 2021 – Oct. 2022) - Total amount: $250K
+    > Develop robust RL methods and apply to scanning optimization and control in additive manufacturing
 
-- ORNL - Laboratory Directed Research & Development (LDRD), [ORNL Artificial Intelligence Initiative](https://www.ornl.gov/ai-initiative) (Sep. 2020 – Aug. 2021)
+- Department of Energy - Advanced Scientific Computing Research (DOE-ASCR): [Decision and Control of Complex Systems: A Data Driven Framework](https://science.osti.gov/-/media/ascr/pdf/programdocuments/docs/2020/ArtificialIntelligenceandDecisionSupportforComplexSystemsAwards.pdf?la=en&hash=2889EB05AFFFB531C052BB6ECE0CB430A2A77FFB) (Sep. 2020 – Aug.2023) - Total amount: $4700K
+  > Develop advanced normalizing flows methods and apply to uncertainty‑aware learning in complex systems
 
-- ORNL, UT - Support for Affiliated Research Teams (StART) program: [Towards Robust and Trustworthy Federated Learning for Ubiquitous Cyber-Physical Systems: Security, Privacy, and Scalability](https://scialli.utk.edu/apply-for-support-for-affiliated-research-teams-start/) (Feb. 2021 – Feb. 2022)
+- Department of Energy - Advanced Scientific Computing Research (DOE-ASCR): [Black-box training for scientific machine learning models](https://csmd.ornl.gov/project/black-box-training-scientific-machine-learning-models) (Sep. 2020 – Aug. 2022) - Total amount: $800K
+  > Develop a directional Gaussian smoothing method for high‑dimensional blackbox optimization
+
+- ORNL, UT - Support for Affiliated Research Teams (StART) program: [Towards Robust and Trustworthy Federated Learning for Ubiquitous Cyber-Physical Systems: Security, Privacy, and Scalability](https://scialli.utk.edu/apply-for-support-for-affiliated-research-teams-start/) (Feb. 2021 – Feb. 2023) - Total amount: $150K
+  > Develop robust and trustworthy federated learning for improving security, privacy and scalability
+
+- ORNL - Laboratory Directed Research & Development (LDRD), [ORNL Artificial Intelligence Initiative](https://www.ornl.gov/ai-initiative) (Sep. 2020 – Aug. 2021) - Total amount: $465K
+  > Develop robust ML methods for time series regression and classification
+
+- Department of Energy - Advanced Scientific Computing Research (DOE-ASCR): [A stochastic optimal control framework for quantifying and reducing uncertainties in deep learning](https://csmd.ornl.gov/project/stochastic-optimal-control-framework-quantifying-and-reducing-uncertainties-deep-learning) (Sep. 2019 – Aug. 2021) - Total amount: $800K
+  > Develop nonlinear dimension reduction methods in function approximation with small datasets
+
 
 <!-- **Overall Objective** is to develop foundational methods for efficient and robust learning, design and decision-making in complex science and engineering problems. -->
 

@@ -17,18 +17,22 @@ subtitle = "Journal & Conference Papers"
 <!-- &nbsp;      -->
 
 
-1. **Jiaxin Zhang**, Hoang Tran, Dan Lu, Guannan Zhang. [Enabling Long-range Exploration in Minimization of Multimodal Functions](https://arxiv.org/abs/2002.03001). *In Proc. 37th Conference on Uncertainty in Artificial Intelligence* (**UAI 2021**). [<font color=green> [PDF] </font>](2021_UAI.pdf)
+1. Ján Drgona, Sayak Mukherjee, Jiaxin Zhang, Frank Liu, Mahantesh Halappanavar. [On the Stochastic Stability of Deep Markov Models](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=28603). *In Proc. 35th Conference on Neural Information Processing Systems (NeurIPS)* (**NeurIPS 2021**). [<font color=green> [PDF] </font>](2021_NeurIPS.pdf)
+
+2. Jiaxin Zhang, Kyle Saleeby, Thomas Feldhausen, Sirui Bi, Alex Plotkowski, David Womble. [Self-Supervised Anomaly Detection via Neural Autoregressive Flows with Active Learning](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=21878). *In NeurIPS 2021 Workshop Deep Generative Models and Downstream Applications* (**NeurIPS 2021 Workshop**). [<font color=green> [PDF] </font>](2021_NeurIPS_AD.pdf)
+
+3. **Jiaxin Zhang**, Hoang Tran, Dan Lu, Guannan Zhang. [Enabling Long-range Exploration in Minimization of Multimodal Functions](https://arxiv.org/abs/2002.03001). *In Proc. 37th Conference on Uncertainty in Artificial Intelligence* (**UAI 2021**). [<font color=green> [PDF] </font>](2021_UAI.pdf)
 <!-- [Code](https://arxiv.org/abs/2002.03001) -->
 
-2. **Jiaxin Zhang**, Sirui Bi, Guannan Zhang. [A Scalable Gradient Free Method for Bayesian Experimental Design with Implicit Models](http://proceedings.mlr.press/v130/zhang21l.html). *In Proc. 24th International Conference on Artificial Intelligence and Statistics* (**AISTATS 2021**). [<font color=green> [PDF] </font>](2021_AISTATS.pdf)
+4. **Jiaxin Zhang**, Sirui Bi, Guannan Zhang. [A Scalable Gradient Free Method for Bayesian Experimental Design with Implicit Models](http://proceedings.mlr.press/v130/zhang21l.html). *In Proc. 24th International Conference on Artificial Intelligence and Statistics* (**AISTATS 2021**). [<font color=green> [PDF] </font>](2021_AISTATS.pdf)
 
-3. **Jiaxin Zhang**, Jan Drgona, Sayak Mukherjee, Mahantesh Halappanavar, Frank Liu. [Variational Generative Flows for Reconstruction Uncertainty Estimation](https://sites.google.com/view/udlworkshop2021/home). *In ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning* (**ICML 2021 Workshop**). [<font color=green> [PDF] </font>](2021_ICML_UDL.pdf)
+4. **Jiaxin Zhang**, Jan Drgona, Sayak Mukherjee, Mahantesh Halappanavar, Frank Liu. [Variational Generative Flows for Reconstruction Uncertainty Estimation](https://sites.google.com/view/udlworkshop2021/home). *In ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning* (**ICML 2021 Workshop**). [<font color=green> [PDF] </font>](2021_ICML_UDL.pdf)
 
-<!-- 4. Zhuohang Li, Luyang Liu, **Jiaxin Zhang**, Jian Liu. [Byzantine-resilient Aggregation for Federated Learning via Spatial-temporal Pattern Analysis](http://federated-learning.org/fl-icml-2021/). *In ICML 2021 Workshop on Federated Learning for User Privacy and Data Confidentiality* (**ICML 2021 Workshop**). -->
+4. Zhuohang Li, Luyang Liu, **Jiaxin Zhang**, Jian Liu. [Byzantine-robust Federated Learning through Spatial-temporal Analysis of Local Model Updates](http://federated-learning.org/fl-icml-2021/). *The 27th IEEE International Conference on Parallel and Distributed Systems* (**ICPADS 2021**).[<font color=green> [PDF] </font>](2021_ICPADS.pdf)
 
 5. Jingbo Sun, Li Yang, **Jiaxin Zhang**, Frank Liu, Mahantesh Halappanavar, Deliang Fan, Yu Cao. [Self-supervised Novelty Detection for Continual Learning: A Gradient-based Approach Boosted by Binary Classification](https://sites.google.com/view/sscl-workshop-ijcai-2021/). *In IJCAI 2021 Workshop on Continual Semi-Supervised Learning* (**IJCAI 2021 Workshop**). [<font color=green> [PDF] </font>](2021_IJCAI.pdf)
 
-3. **Jiaxin Zhang**, Victor Fung. [Efficient Inverse Learning for Materials Design and Discovery](https://sites.google.com/view/sedl-workshop). *In ICLR 2021 Workshop on Science and Engineering of Deep Learning* (**ICLR 2021 Workshop**).
+3. **Jiaxin Zhang**, Victor Fung. [Efficient Inverse Learning for Materials Design and Discovery](https://sites.google.com/view/sedl-workshop). *In ICLR 2021 Workshop on Science and Engineering of Deep Learning* (**ICLR 2021 Workshop**). [<font color=green> [PDF] </font>](2021_ICLR_SEDL.pdf)
 
 4. **Jiaxin Zhang**, Sirui Bi, Victor Fung, Guannan Zhang. [Towards Efficient Uncertainty Estimation in Deep Learning for Robust Energy Prediction in Crystal Materials](https://simdl.github.io/overview/). *In ICLR 2021 Workshop on Deep Learning for Simulation* (**ICLR 2021 Workshop**). [<font color=green> [PDF] </font>](2021_ICLR.pdf)
 
@@ -46,11 +50,19 @@ subtitle = "Journal & Conference Papers"
 ### 📝 Journal Papers
 ---  
 
-1. Congjie Wei, **Jiaxin Zhang**, Kenneth M Liechti, Chenglin Wu. [Data Driven Modeling of Interfacial Traction Separation Relations using Thermodynamic Consistent Neural Network (TCNN)](https://arxiv.org/abs/2011.09946). In *Journal of the Mechanics and Physics of Solids*, 2021 (in review).
+1. Xianglin Liu, **Jiaxin Zhang**, Zongrui Pei. Machine Learning for High Entropy Alloys: Progress, Challenges and Opportunities. In *Progress in Materials Science*, 2021 (accepted proposal , full paper in review).
 
-2. Victor Fung, **Jiaxin Zhang**, Guoxiang Hu, P Ganesh, Bobby G Sumpter.[Inverse design of two-dimensional materials with invertible neural networks](https://arxiv.org/abs/2106.03013).  In *Nature Communications*, 2021 (in review).
+1. Congjie Wei, **Jiaxin Zhang**, Kenneth M Liechti, Chenglin Wu. Deep-Green Inversion (DGI) to Extract Traction Separation Relationship at Material Interfaces. In *International Journal of Solids and Structures*, 2021 (in review).
+
+1. Congjie Wei, **Jiaxin Zhang**, Kenneth M Liechti, Chenglin Wu. [Data Driven Modeling of Interfacial Traction Separation Relations using Thermodynamic Consistent Neural Network (TCNN)](https://arxiv.org/abs/2011.09946). In *Computer Methods in Applied Mechanics and Engineering*, 2021 (in review).
+
+1. Sirui Bi, Benjamin Stump, **Jiaxin Zhang**, Yousub Lee, John Coleman, Matt Bement, Guannan Zhang. Blackbox Optimization for High-fidelity Heat Conduction Model Approximation in Metal Additive Manufacturing. In *Materials Today Communications*, 2021 (in review).
+
+2. Victor Fung, **Jiaxin Zhang**, Guoxiang Hu, P Ganesh, Bobby G Sumpter.[Inverse design of two-dimensional materials with invertible neural networks](https://arxiv.org/abs/2106.03013).  In *npj Computational Materials*, 2021 (accepted).
 
 3. Victor Fung, **Jiaxin Zhang**, Eric Juarez, Bobby Sumpter. [Benchmarking graph neural networks for materials chemistry](https://www.nature.com/articles/s41524-021-00554-0). In *npj Computational Materials* **7**, 84, 2021. [<font color=green> [PDF] </font>](2021_npj.pdf)
+
+3. **Jiaxin Zhang**, Hoang Tran, Guannan Zhang. [Accelerating reinforcement learning with a Directional-Gaussian-Smoothing evolution strategy](https://www.aimsciences.org/article/doi/10.3934/era.2021075). In *Electronic Research Archive*, 2021. [<font color=green> [PDF] </font>](2021_DGSRL.pdf)
 
 4. Kuo Tian, Zengcong Li, **Jiaxin Zhang**, Lei Huang, Bo Wang. [Transfer learning based variable-fidelity surrogate model for shell buckling prediction](https://www.sciencedirect.com/science/article/abs/pii/S0263822321007479). In *Composite Structures*, 114285, 2021. [<font color=green> [PDF] </font>](2021_composite_structures.pdf)
 
@@ -91,6 +103,16 @@ subtitle = "Journal & Conference Papers"
 20. Sirui Bi, **Jiaxin Zhang**, Qianjin Yue. [Buckling control and energy absorption of corrugated web beam under axial compression](https://www.researchgate.net/publication/271273480_Buckling_control_and_energy_absorption_of_corrugated_web_beam_under_axial_compression). In *Chinese Computer Aided Engineering* **23**, 79-85, 2014. [<font color=green> [PDF] </font>](2014_JCAM.pdf)
 
 21. **Jiaxin Zhang**, Bo Wang, Fei Niu, Gengdong Cheng. [Optimal design of concentrated force diffusion for short shell structure using hierarchical radial ribs](https://www.researchgate.net/publication/287516016_Optimal_design_of_concentrated_force_diffusion_for_short_shell_structure_using_hierarchical_radial_ribs). In *Chinese J Comput Mech* **31**, 141-148, 2014. [<font color=green> [PDF] </font>](2014_CJCM.pdf)
+
+### 📝 Other Conference Papers
+---  
+
+1. Velkur Sundar, **Jiaxin Zhang**, Dimitris Giovanis and Michael Shields. [Conditional sampling using affine invariantensemble  MCMC:  application  to  subset  simulation](https://ifip2018.ethz.ch/). *In Proc. IFIP  WG-7.5  Reliability  and  Optimization  of  Structure Systems*. [<font color=green> [PDF] </font>](2018_VSS_MDS_IFIP2018_v31.pdf)
+
+2. Bangalore  Aakash,  **Jiaxin Zhang**,  Pawel  Woelke  and  Michael  Shield. [Probabilistic  calibration  of  material models from limited data and its influence on structural response](http://proceedings.mlr.press/v130/zhang21l.html). *In Proc. 12th International Conference on StructuralSafety & Reliability* (**ICOSSAR 2017**). [<font color=green> [PDF] </font>](2017_ICOSSAR.pdf)
+
+3. **Jiaxin Zhang**, Michael Shields.[Efficient propagation of imprecise probabilities](http://rec2016.rub.de/). *In Proc. 7th International Workshop on Reliable Engineering Computing* (**REC 2016**). [<font color=green> [PDF] </font>](2016_REC.pdf)
+
 
 ### 📝 Ph.D. Thesis
 ---  

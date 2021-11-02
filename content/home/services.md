@@ -69,20 +69,27 @@ subtitle = ""
 +++
 
 **AI/ML Conference Reviewer**
-- NeurIPS (2020, 2021), ICLR (2021,2022), ICML(2021), AISTATS(2021)
+- NeurIPS (2020, 2021), ICLR (2021,2022), ICML(2020,2021), AISTATS(2021, 2022)
 
 **Journal Reviewer**
+- Journal of Machine Learning Research
+- International Journal of Approximate Reasoning
 - Computer Methods in Applied Mechanics and Engineering
+- Journal of Computational Physics
+- npj Computational Materials - Nature
 - International Journal of Uncertainty Quantification
 - Mechanical Systems and Signal Processing
 - Structural and Multidisciplinary Optimization
 - International Journal of Approximate Reasoning
-- Scientific Report
+- Scientific Report - Nature
 - Computational Materials Science
 - Journal of Alloys and Compounds
-- ...
+- Proceedings of the Royal Society A: Mathematical, Physical and Engineering Science
+- IEEE Signal Processing Letters
+- many more ...
 
 **Minisymposium Organizer**
+- "Robustness, Reliability and Safety in Deep Learning" - [SIAM Uncertainty Quantification 2022 (SIAM UQ 22)](https://www.siam.org/conferences/cm/conference/uq22), 2022
 - "Machine Learning for Solving Inverse Problems in Computational Chemistry and Materials Science" - [SIAM Conference on Mathematical Aspects of Materials Science (MS 21)](https://www.siam.org/conferences/cm/conference/ms21), 2021
 - "Machine Learning for Solving Inverse Problems in Computational Mechanics and Materials" - [16th U.S. National Congress on Computational Mechanics](http://16.usnccm.org/), 2021
 
